@@ -19,12 +19,12 @@
 
 <section class="w-96 h-52 mx-auto mt-12 bg-[#324A5F] px-3 py-5 text-white">
   <div class="logo flex justify-center mt-5">
-    <div class="logo-klammer text-[#1f6fed] text-4xl mr-3">&#123;</div>
-    <div class="logo-text">
+    <div class="logo-klammer mt-2 text-[#1f6fed] text-4xl mr-3">&#123;</div>
+    <div class="logo-text mt-2">
       <span>MkaY Development</span> <br />
       <span class="text-sm text-gray-400">UG haftungsbeschränkt</span>
     </div>
-    <div class="logo-klammer text-[#1f6fed] text-4xl ml-3">&#125;</div>
+    <div class="logo-klammer mt-2 text-[#1f6fed] text-4xl ml-3">&#125;</div>
   </div>
   <p class="block text-center mt-3 text-sm">
     Othestrasse 2 <br>
