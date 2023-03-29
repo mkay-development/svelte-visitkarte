@@ -15,4 +15,4 @@ jobs:
         host: 91.107.235.64
         username: root
         key: ${{ secrets.KEY }}
-        script: cd /var/www/vk.mkay.dev && git pull && yarn && yarn build
+        script: cd /mnt/frontend-3/vk.mkay.dev && git pull && yarn && yarn build
