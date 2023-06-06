@@ -33,6 +33,6 @@
 		"@fortawesome/free-solid-svg-icons": "^6.2",
 		"@sveltejs/adapter-static": "^2.0",
 		"svelte-fa": "^3.0",
-		"workbox-cli": "^6.5.4"
+		"workbox-cli": "^7.0.0"
 	}
 }
